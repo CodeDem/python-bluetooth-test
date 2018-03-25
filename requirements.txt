@@ -1,0 +1,2 @@
+PyOBEX==0.27
+lightblue==0.2
